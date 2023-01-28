@@ -1,0 +1,2 @@
+Chu1_curve.csv filter=lfs diff=lfs merge=lfs -text
+Briggs_curve.csv filter=lfs diff=lfs merge=lfs -text

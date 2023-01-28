@@ -1,0 +1,9 @@
+/Users/renyu/Downloads/DPOR/examples/curve/Briggs_curve.csv filter=lfs diff=lfs merge=lfs -text
+/Users/renyu/Downloads/DPOR/examples/curve/Chu1_curve.csv filter=lfs diff=lfs merge=lfs -text
+/Users/renyu/Downloads/DPOR/examples/datasets/GSE75748_Chu1.csv filter=lfs diff=lfs merge=lfs -text
+/Users/renyu/Downloads/DPOR/examples/datasets/GSE97390_Briggs.csv filter=lfs diff=lfs merge=lfs -text
+/Users/renyu/Downloads/DPOR/interface/curve/Briggs_curve.csv filter=lfs diff=lfs merge=lfs -text
+/Users/renyu/Downloads/DPOR/interface/curve/Chu1_curve.csv filter=lfs diff=lfs merge=lfs -text
+/Users/renyu/Downloads/DPOR/interface/exp/Briggs_exp.csv filter=lfs diff=lfs merge=lfs -text
+/Users/renyu/Downloads/DPOR/interface/exp/Chu1_exp.csv filter=lfs diff=lfs merge=lfs -text
+/Users/renyu/Downloads/DPOR/lib/GO/hs_km.Rda filter=lfs diff=lfs merge=lfs -text
