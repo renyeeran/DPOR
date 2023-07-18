@@ -1,11 +1,9 @@
 # DPOR: Differentiation Potency predictor using Ollivier-Ricci curvature
 
-
-
+&nbsp;
 ![](flowchart.png)
+&nbsp;
 
-
-  
 DPOR is performed as follows:  
 
 >(1) Obtainment of expression matrix and adjacency matrix from scRNA-Seq data and PPI network;
