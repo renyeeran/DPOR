@@ -29,7 +29,7 @@ Note: Conversion of human homologous genes is involved when dealing with mouse d
 Clone this repository via the commands:
 
 ```
-git clone https://github.com/cliffgao/DPOR.git
+git clone https://github.com/renyeeran/DPOR.git
 cd DPOR
 ```
 
