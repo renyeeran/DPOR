@@ -1,6 +1,6 @@
 # DPOR: Differentiation Potency predictor using Ollivier-Ricci curvature
 
-![](‘DPOR/flowchart.tiff’](https://github.com/renyeeran/DPOR/blob/main/flowchart.tiff)
+![]('https://github.com/renyeeran/DPOR/blob/main/flowchart.png')
 
 DPOR is performed as follows:  
 
