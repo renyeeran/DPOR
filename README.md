@@ -1,12 +1,14 @@
 # DPOR: Differentiation Potency predictor using Ollivier-Ricci curvature
 
+## Introduction
+
 DPOR is a curvature-based method to estimate the differentiation potency of single cells. 
 
 The workflow of DPOR is shown in the following picture:
 
 &nbsp;
 ![](flowchart.png)
-&nbsp;
+
 
 ## Requirements 
 
@@ -42,7 +44,6 @@ If you want to use original datasets as input, please follow:
 - output: DPOR scores for cells
 
 ```
-
 source(examples/example_Chu1.R)    # for huamn datasets
 source(examples/example_Briggs.R)  # for mouse datasets
 ```
